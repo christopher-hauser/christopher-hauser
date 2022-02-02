@@ -29,7 +29,6 @@
 
 
 ### My Github at a Glance:
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=christopher-hauser)](https://github.com/christopher-hauser)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-hauser&layout=compact)](https://github.com/christopher-hauser)
 <!--
 **christopher-hauser/christopher-hauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
